@@ -446,7 +446,22 @@ exports.newPost = (req, res) => {
       post.type = "user_post";
       post.comments = [];
       
-
+      async function quickstart() {
+        // Imports the Google Cloud client library
+        const vision = require('@google-cloud/vision');
+      
+        // Creates a client
+        const client = new vision.ImageAnnotatorClient();
+      
+        // Performs label detection on the image file
+        const [result] = await client.labelDetection('uploads/user_post/' + req.file.filename);
+        const labels = result.labelAnnotations;
+        // console.log(req.file.filename);
+        console.log('Labels:');
+        labels.forEach(label => console.log(label.description));
+      }
+      quickstart();
+      
       //Now we find any Actor Replies (Comments) that go along with it
       Notification.find()
         .where('userPost').equals(post.postID)

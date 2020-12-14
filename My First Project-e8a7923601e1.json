@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "helical-math-294110",
+  "private_key_id": "e8a7923601e1229557dcf5da4c5fc145982f110e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHUeVDo77N5+ld\n4Pr6dF+WcrV9iJEd71LZlPEd8GsIDvOqO0MIrp8BcWVTLezzqxRFkDfvhhzw4RHM\nIgOz5DxQZh1v8fVnm3RGB/YmmVjSne8jczBDeq//8EW4uqiVtQNvDYjHuA5VMFdb\nV20syEtd01mzzY9MHGiVzeOxGFycWx/i/H7/9WT0FuPhU70eNAosT6IB/TCxHfHz\nMXlDiev8EQuNh3EteMJP+JZWO20dTSPN3VoYUG3to10eqqCuRz/AeLGvIrNzTo6O\n1MdrT/OSRGPGxI4i1ojRaGmO3+iAumVhrkqJ6Llc0V9lx3fNmGv+tObRtZJLmM7k\nAdrJzwp7AgMBAAECggEALb159tk7XqYzNCN+hP4yt2RQiOPPpYZ3xU28PWogLcO8\noBqkafgkriCXJ4z4/PwMFWCgrXth5ddIjcdagSxFuQ+N/tQQRHv0pWOLVdVIAGFU\n8RYsg7fCbuH1JgzTxjM5fAEnm+l9hIgo6+G2wJmgTgJD6hKoqUc1qvcKIuhbzFdn\nQRZQ4Zcw9ekfNiIdh9JW0HemYDz6mRyCqzTKwoBIgLtm7/MrG5AiTenjS0E4UGWd\nE0D3klnh/0D6IcsLkMtjSntiLV7wR7CnZnXZU0EphNn+IEjtaae9rnvbDlgVN+41\ng0vJl/jK9BEOQHnRtZ7TVqT2ApvwZKSonUiVE3hfDQKBgQDs7M1pcCGEw/YFGVj3\nrHm3zHThX4OxE9cl/rpM2VZfYXZtNLOctV13/xR4Okh9X3Y3t0UzC97I9yEBAgBU\nXQ2iu1WJmyVLo17Gyng2DW/kQNbsq5v/K+dIWon7e2eWdR4k0c2+Oecg2sox27xu\nKg19Ik9QSFV2RG5apsKYQjKinQKBgQDXXgZEMdt5oTHQO041pRFi3QZ1bx9G6b7N\n7y5P5FLnRT/jpTprbGZklqBVRkg0zBRc79ONoBVqA5Lsi9T1DrriYLY9VYNzMG0T\nmx0Jlxgov5wbATL/fG8sehOscv6FBooBeHEDrHzi3senzE7VHnTzNeSAEQyD4qcx\nujWpdb0p9wKBgCM/X5fuHK550OIVUU0XlcwoWMMmyJrRjtKSQPkp5FWwVEQO8SHB\nQbSWeF8inKI6T4Yed+cOPwi662gQ+ieS6HJrWGBuem/0UCdW++devGTC2LbBGSYv\nS+tRvPFy/Ig/yEpGBEvmpWIX6rjcLf5dt0AEmLQi7sP3jktiP9UTFCFpAoGAUVwN\n1flXxk0k+ltNImrndIe3Buoh0LJBCJ8QydGhmAjLJ/6lYSukSt+0VkKkyH1IPAvF\nybzuGgyblo0EuEcGRrruXaFOdVeX/U4d3B+eWtZ37KO5Vlb10MGVaRJQIITl4cRU\nPWUOEM7Echl2toA5AiAb4F2QcspPCzQjTY9TFOUCgYB3jUnsv1GlHm8vOAv3GEuy\n1q7P5CAbIHOV2mnnxh0RS9hSFNURuKhtEjZ+TyyFIZ64We5oP8sDWiDVIWs8GEWP\nK45dGEuji2xqCZewt1Xg7VFiYNM41tL56dYUsUPZ7zvg6Ff57bey+hPb2acpfaU8\nxbl+5YwumM1rPPOvi85jwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-818@helical-math-294110.iam.gserviceaccount.com",
+  "client_id": "102344125426626474226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-818%40helical-math-294110.iam.gserviceaccount.com"
+}
